@@ -1,0 +1,605 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\infrastructure\\dals\\neworderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\infrastructure\\dals\\neworderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\salesdateprediction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\salesdateprediction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757E3315-4DFF-475B-9EBF-36DA8FACA929}|TestProject\\SalesDatePrediction.Tests.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\testproject\\salesdateprediction.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{757E3315-4DFF-475B-9EBF-36DA8FACA929}|TestProject\\SalesDatePrediction.Tests.csproj|solutionrelative:testproject\\salesdateprediction.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\dtos\\customerorderpredictiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\dtos\\customerorderpredictiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\api\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\api\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\infrastructure\\repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\infrastructure\\repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\api\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\api\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\interfaces\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\interfaces\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|c:\\users\\braya\\downloads\\entregafinal\\salesdateprediction\\salesdateprediction\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7FB78-FD7A-4422-BABD-180988447CBE}|SalesDatePrediction\\SalesDatePrediction.csproj|solutionrelative:salesdateprediction\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SalesDatePrediction\\API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:15:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\DALs\\NewOrderRequest.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Infrastructure\\DALs\\NewOrderRequest.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\DALs\\NewOrderRequest.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Infrastructure\\DALs\\NewOrderRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:40:45.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerOrderPredictionDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\CustomerOrderPredictionDto.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\DTOs\\CustomerOrderPredictionDto.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\CustomerOrderPredictionDto.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\DTOs\\CustomerOrderPredictionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:07:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SalesDatePrediction\\API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:06:21.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesDatePrediction.csproj",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\SalesDatePrediction.csproj",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\SalesDatePrediction.csproj",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\SalesDatePrediction.csproj",
+              "RelativeToolTip": "SalesDatePrediction\\SalesDatePrediction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T16:30:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\appsettings.json",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\appsettings.json",
+              "RelativeToolTip": "SalesDatePrediction\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T20:24:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SalesDatePrediction\\API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:06:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvykAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:56:40.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:21:07.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Program.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Program.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:29:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-24T00:08:11.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesDatePrediction.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\TestProject\\SalesDatePrediction.Tests.csproj",
+              "RelativeDocumentMoniker": "TestProject\\SalesDatePrediction.Tests.csproj",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\TestProject\\SalesDatePrediction.Tests.csproj",
+              "RelativeToolTip": "TestProject\\SalesDatePrediction.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T22:12:32.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\OrderServices.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Services\\OrderServices.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:02:28.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:05:10.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:03:01.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeController .cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\EmployeeController .cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\API\\Controllers\\EmployeeController .cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\EmployeeController .cs",
+              "RelativeToolTip": "SalesDatePrediction\\API\\Controllers\\EmployeeController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:26:06.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:58:37.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:11:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\CustomerService.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:20:15.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAMBUwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:53:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\ShipperRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Infrastructure\\Repositories\\ShipperRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Infrastructure\\Repositories\\ShipperRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Infrastructure\\Repositories\\ShipperRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:31:57.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Shipper.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Entities\\Shipper.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Shipper.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Entities\\Shipper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:39:23.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:23:02.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:01:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\ProductService.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:02:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:01:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:01:35.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:21:25.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\Interfaces\\IShipperRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IShipperRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\Interfaces\\IShipperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:41:46.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\API\\Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\API\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "SalesDatePrediction\\API\\Controllers\\ShipperController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:45:11.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\ShipperService.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Services\\ShipperService.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\ShipperService.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Services\\ShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:44:00.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShipperDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\ShipperDto.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\DTOs\\ShipperDto.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\ShipperDto.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\DTOs\\ShipperDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:42:55.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:21:59.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:24:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:59:17.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesDatePrediction\\Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\braya\\Downloads\\EntregaFinal\\SalesDatePrediction\\SalesDatePrediction\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "SalesDatePrediction\\Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:01:20.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

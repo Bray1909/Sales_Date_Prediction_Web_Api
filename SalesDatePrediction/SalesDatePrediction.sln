@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesDatePrediction", "SalesDatePrediction\SalesDatePrediction.csproj", "{77E7FB78-FD7A-4422-BABD-180988447CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesDatePrediction.Tests", "TestProject\SalesDatePrediction.Tests.csproj", "{757E3315-4DFF-475B-9EBF-36DA8FACA929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E7FB78-FD7A-4422-BABD-180988447CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E7FB78-FD7A-4422-BABD-180988447CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E7FB78-FD7A-4422-BABD-180988447CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E7FB78-FD7A-4422-BABD-180988447CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757E3315-4DFF-475B-9EBF-36DA8FACA929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757E3315-4DFF-475B-9EBF-36DA8FACA929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757E3315-4DFF-475B-9EBF-36DA8FACA929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757E3315-4DFF-475B-9EBF-36DA8FACA929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4842E7D-FEFF-4944-9719-7EB499BC42CA}
+	EndGlobalSection
+EndGlobal
